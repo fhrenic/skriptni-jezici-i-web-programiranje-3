@@ -1,0 +1,33 @@
+.naslov{
+    border: 2px;
+    background-color: violet;
+    display: inline-block;
+}
+.harmonyos{
+    padding: 0%;
+    background-color: darkblue;
+    color: white;
+    text-align:justify;
+    border: 2px;
+    outline: 2px;
+    display: inline-block;
+}
+.link{
+    outline: auto;
+    border: 2px;
+    border-color: black;
+    background-color: aqua;
+    display: inline-block;
+}
+.galaksia{
+    background-image:url(https://wallpapercave.com/wp/wp8192252.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tekst{
+    color: white;
+    font-style:italic;
+}
+.pozadina{
+    background-color: black;
+}
