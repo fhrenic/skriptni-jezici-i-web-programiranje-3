@@ -1,0 +1,52 @@
+body{
+  background-color: lightslategray;
+  text-align: center;
+}
+div{
+  margin-left: 360px;
+}
+.link{
+  margin: 10px;
+  margin-right: 30px;
+  color: white;
+  padding-left: 10px gray;
+  padding: 10px 30px;
+  background-color: gray;  
+  border-radius: 8px; 
+  display: inline-block;
+  transition: 1s;
+  text-align: center;
+}
+.link1{
+  margin: 10px;
+  color: white;
+  padding-left: 10px gray;
+  padding: 10px 30px;
+  background-color: gray;  
+  border-radius: 8px; 
+  display: inline-block;
+  transition: 1s;
+  text-align: center;
+}
+.link:hover, .link1:hover{
+  background-color: lightblue;
+  transition: 0.5s;
+  border-radius: 20px;
+}
+.naslov{
+  background-color: gray;
+  width: 200px;
+  text-align: center;
+  border-radius: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0;
+  margin-left: 150px;
+}
+.tekst{
+  background-color: rgb(155, 155, 155);
+  border-radius: 10px;
+  width: 500px;
+  text-align: center;
+  display: block;
+}

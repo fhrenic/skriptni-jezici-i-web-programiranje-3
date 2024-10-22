@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin:5px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.podcrtano{
+    border-bottom: 3px solid black;
+    font-size: x-large;
+}
+.background{
+    background-image: url(https://www.despot.com.hr/thumb/Pozadine-za-slike-djecu-djeca-foto-pozadine-tu%C5%A1-kola%C4%8D-4_storage/181903.jpeg) ;
+}
+.okvir{
+    color: white;
+    padding-left: 10px gray;
+    padding: 10px 30px;
+    background-color: gray;  
+    border-radius: 8px; 
+    display: inline-block;
+    transition: 1s;
+    text-align: center;
+}
+.okvir:hover{
+    background-color: lightblue;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+div{
+    background-color: lightslategray;
+    width: 300px;
+    text-align: center;
+    margin-left: 460px;
+}
+.gumb{
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}

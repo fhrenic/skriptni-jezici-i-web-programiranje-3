@@ -1,0 +1,48 @@
+
+.notes{
+    background-color: lightslategray;
+    box-sizing: border-box;
+    margin: 10%;
+    padding: 0;
+    text-align: center; 
+}
+.tekst{
+    margin: 10px;
+    color: white;
+    padding-left: 10px gray;
+    padding: 10px 30px;
+    background-color: gray;  
+    border-radius: 8px; 
+}
+.tekst1{
+    margin: 10px;
+    color: white;
+    padding-left: 10px gray;
+    padding: 10px 30px;
+    background-color: gray;  
+    border-radius: 8px; 
+    
+}
+.tekst2{
+    margin: 10px;
+    color: white;
+    padding-left: 10px gray;
+    padding: 10px 30px;
+    background-color: gray;  
+    border-radius: 8px; 
+    display: inline-block;
+}
+.tekst3{
+    margin-bottom: 10px;
+    color: white;
+    padding-left: 10px gray;
+    padding: 10px 30px;
+    background-color: gray;  
+    border-radius: 8px; 
+    display: inline-block;
+}
+.tekst:hover, .tekst1:hover, .tekst2:hover, .tekst3:hover{
+    background-color: lightblue;
+    transition: 0.5s;
+    border-radius: 20px;
+}
